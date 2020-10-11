@@ -1,0 +1,32 @@
+﻿
+
+h1{
+
+ color:red;
+
+}
+h3{
+    color:blue;
+}
+body {
+    background-color: azure!important;
+}
+
+hr {
+    background-color: gray;
+    border-style: dotted;
+    /*               Modifica la barra que separa las lineas*/
+    border-width: 5px;
+    border-color: black;
+      /*width: 25%;*/
+     /*height: 5px;*/  /*Cambia el tamaño de la barra */
+}
+.a {
+    background-color: dimgrey;
+    border-style: dotted;
+    /*               Modifica la barra que separa las lineas*/
+    /*    border-width: 5px;*/
+    border-color: black;
+    width: 50%;
+    height: 2px; /*Cambia el tamaño de la barra */
+}
